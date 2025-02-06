@@ -3,3 +3,5 @@
 .intellijPlatform
 .qodana
 build
+node_modules
+server/out
